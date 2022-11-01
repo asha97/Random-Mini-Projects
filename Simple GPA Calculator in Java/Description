@@ -1,0 +1,3 @@
+I have created a simple GPA calculator in Java. 
+We are going to be using the console in order to let the user enter the number of courses they are taking, as well as the letter grade they have received for each one of their courses. 
+We are going to be assuming that each class is of equal weight.
