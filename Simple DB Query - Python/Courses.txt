@@ -1,0 +1,3 @@
+CID: COMP353, Name: Databases, Credits: 4
+CID: SOEN357, Name: User Interface Design, Credits: 3
+CID: COEN320, Name: Intro to Real-Time Systems, Credits: 3

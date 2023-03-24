@@ -1,0 +1,14 @@
+SID: 1, CID: COMP353, Grade: B+
+SID: 2, CID: COMP353, Grade: A+
+SID: 3, CID: COMP353, Grade: C
+SID: 4, CID: COMP353, Grade: A-
+SID: 5, CID: COMP353, Grade: B
+SID: 6, CID: COMP353, Grade: B+
+SID: 7, CID: COMP353, Grade: A
+SID: 8, CID: COMP353, Grade: D
+SID: 1, CID: COEN320, Grade: B
+SID: 1, CID: SOEN357, Grade: B
+SID: 2, CID: SOEN357, Grade: C
+SID: 4, CID: SOEN357, Grade: A
+SID: 3, CID: SOEN357, Grade: B
+SID: 2, CID: COEN320, Grade: C

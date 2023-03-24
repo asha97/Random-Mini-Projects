@@ -1,0 +1,8 @@
+SID: 1, Name: Kate, Program: Electrical Engineering, Address: 2345 rue St-Jacques
+SID: 2, Name: Alex, Program: Computer Engineering, Address: 1233 rue Durocher
+SID: 3, Name: Mary, Program: Software Engineering, Address: 2345 rue Angel
+SID: 4, Name: John, Program: Mechanical Engineering, Address: 101 rue Ste-Catherine
+SID: 5, Name: Ron, Program: Civil Engineering, Address: 723 rue Atateken
+SID: 6, Name: Don, Program: Computer Science, Address: 55 rue St-Jacques
+SID: 7, Name: Chris, Program: Business Technology Management, Address: 1 Place Ville-Marie
+SID: 8, Name: Ella, Program: Economics, Address: 1234 Avenue des Pigeons
